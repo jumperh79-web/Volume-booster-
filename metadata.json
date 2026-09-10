@@ -1,0 +1,6 @@
+{
+  "name": "Volume Booster",
+  "description": "Android Volume Booster, Loudness Enhancer, 5-Band Equalizer, Bass Boost, Virtualizer & Audio Stream Manager for Android 5+",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
